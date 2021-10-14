@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\bin\Debug\netcoreapp3.1\myfirstapp.exe
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\bin\Debug\netcoreapp3.1\myfirstapp.deps.json
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\bin\Debug\netcoreapp3.1\myfirstapp.runtimeconfig.json
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\bin\Debug\netcoreapp3.1\myfirstapp.runtimeconfig.dev.json
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\bin\Debug\netcoreapp3.1\myfirstapp.dll
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\bin\Debug\netcoreapp3.1\myfirstapp.pdb
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\obj\Debug\netcoreapp3.1\myfirstapp.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\obj\Debug\netcoreapp3.1\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\obj\Debug\netcoreapp3.1\myfirstapp.AssemblyInfo.cs
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\obj\Debug\netcoreapp3.1\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\obj\Debug\netcoreapp3.1\myfirstapp.dll
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\obj\Debug\netcoreapp3.1\myfirstapp.pdb
+C:\Users\pc\Desktop\csharp-basic-exercise\myfirstapp\obj\Debug\netcoreapp3.1\myfirstapp.genruntimeconfig.cache
